@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Goummo Juompan Bill Boris
-- 👀 An Aspiring Data Scientist, interested in Data Visualization, Analytics, Machine Learning, Mobile and Web Development
-- 🌱 Currently I am Studying Computer Engineering in the University of Buea Cameroon
-- 💞️ I’m looking to collaborate on Data science in the field of Agriculture
+- 👋 Hi, I’m Goummo Juompan Bill Boris,
+- 👀 An Aspiring Data Scientist, interested in Data Visualization, Analytics, Machine Learning, Mobile and Web Development,
+- 🏀 I do play basketball in my spare time, and attend to meetings,
+- 🌱 Currently I am Studying Computer Engineering in the University of Buea Cameroon.
+- 💞️ I’m looking to collaborate on Agriculture in future; Using Data and optimize the agricultural yield.
 - 📫 How to reach me goummoboris@gmail.com 
