@@ -7,5 +7,11 @@
 
 
 Some of my Web-Based projects are:</br>
-  An Attempt to <a href="https://quick-f.000webhostapp.com/mlGame.html">Rock-Paper-Scissors Machine Learning Game</a>
+  1- An Attempt to <a href="https://quick-f.000webhostapp.com/mlGame.html">Rock-Paper-Scissors Machine Learning Game</a></br>
+  2- <a href="https://quick-f.000webhostapp.com/excelformatter.html">Excel Formatter</a>;A PWA for processing our school formB and time-tables before upload to our Website.</br>
+  3- <a href="https://quick-f.000webhostapp.com/app.html">Quick-f software</a> An attempt to make a Search Engine for fonts 😅</br>
+  4- <a href="https://quick-f.000webhostapp.com/clock.html">Just some frontEnd in some framework</a>
+  
+  Currently, I am planning to build a real-time Speech-to-Speech translation Software as my B-Tech Project. I'll be using the Open-Source <a href="https://github.com/mozilla/DeepSpeech">DeepSpeech model from Mozilla</a>(for Speech-to-Text), building a custom Model(for Text-to-Text), and using an API for Text-to-Speech once more. One idea is to build several models for dialects of my home country.
+  
   
