@@ -6,6 +6,6 @@
 - 📫 How to reach me goummoboris@gmail.com 
 
 
-Some of my Web-Based projects are:
-  Peek-a-boo Machine Learning Game: <a href="www.google.com">quick-f.000webhostapp.com/mlGame.html</a>
+Some of my Web-Based projects are:</br>
+  An Attempt to <a href="quick-f.000webhostapp.com/mlGame.html">Rock-Paper-Scissors Machine Learning Game</a>
   
