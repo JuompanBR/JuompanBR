@@ -7,5 +7,5 @@
 
 
 Some of my Web-Based projects are:
-  Peek-a-boo Machine Learning Game: <a>quick-f.000webhostapp.com/mlGame.html</a>
+  Peek-a-boo Machine Learning Game: <a href="www.google.com">quick-f.000webhostapp.com/mlGame.html</a>
   
