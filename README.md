@@ -7,5 +7,5 @@
 
 
 Some of my Web-Based projects are:</br>
-  An Attempt to <a href="quick-f.000webhostapp.com/mlGame.html">Rock-Paper-Scissors Machine Learning Game</a>
+  An Attempt to <a href="https://quick-f.000webhostapp.com/mlGame.html">Rock-Paper-Scissors Machine Learning Game</a>
   
