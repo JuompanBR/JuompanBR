@@ -8,7 +8,7 @@
 
 Some of my Web-Based projects are:</br>
   1- An Attempt to <a style="background-color: red;" href="https://quick-f.000webhostapp.com/mlGame.html">Rock-Paper-Scissors Machine Learning Game</a></br>
-  2- <a href="https://quick-f.000webhostapp.com/excelformatter.html">Excel Formatter</a>;A PWA for processing our school formB and time-tables before upload to our Website.</br>
+  2- <a href="https://quick-f.000webhostapp.com/excelformatter.app">Excel Formatter</a>;A PWA for processing our school formB and time-tables before upload to our Website.</br>
   3- <a href="https://quick-f.000webhostapp.com/app.html">Quick-f software</a> An attempt to make a Search Engine for fonts 😅</br>
   4- <a href="https://quick-f.000webhostapp.com/clock.html">Just some frontEnd in some framework</a>
   
