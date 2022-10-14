@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Goummo Juompan Bill Boris,
 - 👀 An Aspiring Data Scientist, interested in Data Visualization, Analytics, Machine Learning, Mobile and Web Development,
 - 🏀 I do play basketball in my spare time, and attend to meetings,
-- 🌱 Computer Engeening Major . B.Tech in College of Technology-University of Buea.
+- 🌱 Computer Engineerning Major (B.Tech) in College of Technology-University of Buea.
 - 💞️ I’m looking to collaborate on Agriculture in future; Using Data Analytics to optimize agricultural yield.
 - 📫 How to reach me goummoboris@gmail.com 
 
