@@ -12,6 +12,7 @@ Some of my Web-Based projects are:</br>
   3- <a href="https://quick-f.000webhostapp.com/app.html">Quick-f software</a> An attempt to make a Search Engine for fonts 😅</br>
   4- <a href="https://quick-f.000webhostapp.com/clock.html">Just some frontEnd in some framework</a>
   
-  Lately, I presented a solution to Real-Time Speech-To-Speech translation called 'Go-tranScribe', it worked Flawlessly ✨✨.  One idea is to build several language models for dialects of my home country.
+  Lately, I presented a solution to Real-Time Speech-To-Speech translation called 'Go-tranScribe' for my B.Tech Program under <a href="https://www.researchgate.net/profile/Christian-Tchapga-Tchito">Tchapga Tchito Christian Ph.D (Lecturer)</a>, it worked Flawlessly ✨✨. Check-out the project Docs here: 
+  One idea is to build several language models for dialects of my home country.
   
   
