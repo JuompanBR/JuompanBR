@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Goummo Juompan Bill Boris,
+- 👋 Hi, I’m Goummo Juompan Bill Boris : 12 October 2023: I am about to start a series on Microsoft Azure, Apache Spark, Apache Airflow, and more
 - 👀 I am a Data Scientist and Life-long learner, interested in Data Visualization, Analytics, Machine Learning, Mobile and Web Development,
 - 🏀 I do play basketball in my spare time, and attend to meetings,
 - 🌱 Computer Engineerning Major (B.Tech) in College of Technology-University of Buea.
